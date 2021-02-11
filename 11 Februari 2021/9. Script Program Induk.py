@@ -10,3 +10,5 @@ print(fibo.fib2(100))
 #pemanggilan fungsi dengan nama lokal
 fib = fibo.fib
 print(fib(100))
+
+#
